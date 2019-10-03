@@ -3,8 +3,7 @@
 ### Description
 
 
-[```Description```](Description) / [```Interaction Types```](#interaction-types) / [```Data Definitions```](#data-definitions) / [```Included Resources```](#included-resources) /  [```Data Issues```](#data-issues) / [```Summary```](#summary)
-
+[```Description```](Description) / [```Interaction Types```](#interaction-types) 
 
 ### Interaction Types Already in GloBI 
 
