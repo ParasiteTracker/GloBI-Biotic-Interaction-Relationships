@@ -13,8 +13,7 @@ The kinds of biotic species interactions in GloBI are mapped to terms in the Rel
 row | interaction | source | target | termIRI |
 | --- | --- | --- | --- | --- |
 1 | eats| consumer| food| http://purl.obolibrary.org/obo/RO_0002470 |
-
-2 | eatenBy| food| consumer| http://purl.obolibrary.org/obo/RO_0002471
+2 | eatenBy| food| consumer| http://purl.obolibrary.org/obo/RO_0002471 |
 
 3 | preysOn| predator| prey| http://purl.obolibrary.org/obo/RO_0002439
 4 | preyedUponBy| prey| predator| http://purl.obolibrary.org/obo/RO_0002458
