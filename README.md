@@ -11,7 +11,7 @@
 The kinds of biotic species interactions in GloBI are mapped to terms in the Relations Ontology (RO), or EOL vocabulary. Classes to describe interactions in the RO (and other ontologies) can be searched through the [Ontobee](http://www.ontobee.org/ontology/RO?iri=http://purl.obolibrary.org/obo/RO_0002437) or [EOL Term Glossary](https://eol.org/terms/glossary/a). Updated October 3, 2019
 
 | interaction| source| target| termIRI
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 1 | eats| consumer| food| http://purl.obolibrary.org/obo/RO_0002470
 2 | eatenBy| food| consumer| http://purl.obolibrary.org/obo/RO_0002471
 3 | preysOn| predator| prey| http://purl.obolibrary.org/obo/RO_0002439
