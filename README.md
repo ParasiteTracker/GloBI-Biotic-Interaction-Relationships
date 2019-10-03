@@ -1,6 +1,14 @@
-### Interaction Types Already in GloBI (Updated October 3, 2019)
+## Terms and Relationships GloBI Understands
 
-The kinds of biotic species interactions in GloBI are mapped to terms in the Relations Ontology (RO), or EOL vocabulary. Classes to describe interactions in the RO (and other ontologies) can be searched through the [Ontobee](http://www.ontobee.org/ontology/RO?iri=http://purl.obolibrary.org/obo/RO_0002437) or [EOL Term Glossary](https://eol.org/terms/glossary/a).
+### Description
+
+
+[```Citation```](#Citation) / [```Interaction Types```](#interaction-types) / [```Data Definitions```](#data-definitions) / [```Included Resources```](#included-resources) /  [```Data Issues```](#data-issues) / [```Summary```](#summary)
+
+
+### Interaction Types Already in GloBI 
+
+The kinds of biotic species interactions in GloBI are mapped to terms in the Relations Ontology (RO), or EOL vocabulary. Classes to describe interactions in the RO (and other ontologies) can be searched through the [Ontobee](http://www.ontobee.org/ontology/RO?iri=http://purl.obolibrary.org/obo/RO_0002437) or [EOL Term Glossary](https://eol.org/terms/glossary/a). Updated October 3, 2019
 
 |interaction|source|target|termIRI
 1|eats|consumer|food|http://purl.obolibrary.org/obo/RO_0002470
